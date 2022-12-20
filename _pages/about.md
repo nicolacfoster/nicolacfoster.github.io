@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nicola Foster"
+title: "About the author"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
