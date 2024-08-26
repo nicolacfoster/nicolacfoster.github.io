@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Foster_photo.png"
+  avatar           : "Foster_photo.jpg"
   name             : "Nicola Foster"
   pronouns         : # example: "she/her"  
   bio              : "Epidemiologist working on tuberculosis and the equitable distribution of health."
