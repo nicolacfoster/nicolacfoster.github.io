@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD, University of Cape Town, 2019
+* MPH, University of Cape Town, 2011
+* BPharm, Nelson Mandela University, 2006
 
-Work experience
+Certificates
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postgraduate certificate in learning and teaching (PGCILT), London School of Hygiene and Tropical Medicine, united Kingdom. 2022 - 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Academic posts
+======
+* Postdoctoral Research Fellow, University College London, United Kingdom, 2024 - present
+* Lecturer, London School of Hygiene and Tropical Medicine, United Kingdom, 2021 - present
+* Research Fellow, London School of Hygiene and Tropical Medicine, United Kingdom, 2021 - 2024
+* Research Fellow, Lancaster University, United Kingdom, 2019 - 2021
+* Bongani Mayosi National Health Scholar, University of Cape Town, South Africa, 2013 - 2018
+* Junior Research Officer, University of Cape Town, South Africa, 2011 - 2012
+* NRF Health and Wealth Scholar, University of Cape Town, South Africa, 2008 - 2010
   
-Skills
+Non-academic positions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pharmacist (community/ medical national service), South African Department of Health, South Africa, 2006 - 2007
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fundamentals of Epidemiology, MSc Epidemiology (distance learning), London School of Hygiene and Tropical Medicine, United Kingdom, 2022 - current
+* Social Epidemiology, MSc Epidemiology, London School of Hygiene and Tropical Medicine, United Kingdom, 2021 - 2023
+* Quantitative Methods for Health Economists, Masters in Public Health, University of Cape Town, South Africa, 2016 - 2018
+* Microeconomics of the health sector, Masters in Public Health, University of Cape Town, South Africa, 2015 - 2018
+* Healthcare decision making, Postgraduate diploma in health economics, 2016 - 2018 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-chair of Athena Swan (Gender Equality) working group, London School of Hygiene and Tropical Medicine, June 2024 - current
+* Member of Athena Swan and Race Equality Charters working groups, London School of Hygiene and Tropical Medicine, 2021 - current
+* Member of Faculty of Health and Medicine EDI committee, Lancaster University, 2019 - 2021
+* Member of the Technical Advisory Group for the South African National Tuberculosis Patient Cost Survey, South African National Department of Health, 2015 - 2020
