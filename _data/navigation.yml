@@ -17,8 +17,8 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Papers"
-    url: /papers/
+  #- title: "Papers"
+  #  url: /papers/
         
   - title: "Reflections"
     url: /reflections/
