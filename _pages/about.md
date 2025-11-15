@@ -14,11 +14,11 @@ Our work spans quantitative pharmacology, population statistics, epidemiology an
 
 This website highlights some our completed projects and explanations of ongoing work. 
 
-- projects
+- about - curriculum vitae
+- completed projects
 - lectures & talks
 - papers
-- data
-- curiculum vitae
+- reflections
 
 
 
