@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-EQUICALCS is a quantitative epidemiology consultancy group, directed by Dr Nicola Cloete Foster. Our work includes quantitative pharmacology, population statistics, epidemiology and clinical medicine (with a focus on tuberculosis/ respiratory diseases). Completed projects are summarised in these pages, and aspects of ongoing work/ statistical methodological work described in the blog posts section.   
+
+_Equicalcs_ is a quantitative epidemiology consultancy group, directed by Dr Nicola Cloete Foster. 
+
+Our work spans quantitative pharmacology, population statistics, epidemiology and clinical medicine (with a focus on tuberculosis/ respiratory diseases). 
+
+This website highlights some our completed projects and explanations of ongoing work. 
+
+- projects
+- lectures & talks
+- papers
+- data
+- curiculum vitae
+
 
 
 
