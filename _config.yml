@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "EQUICALCS"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Equicalcs"
 title_separator          : "-"
 name                     : &name "Dr Nicola Cloete Foster"
-description              : &description "Statistics on the Move"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Statistics on the move"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://nicolacfoster.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Statistical Epidemiologist"
   location         : "London, UK"
-  employer         : "EQUICALCS"
+  employer         : "Equicalcs"
   uri              : # URL
   email            : "nicola@equicalcs.uk" 
 
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @DrNicolaFoster
 facebook:
   username               :
   app_id                 :
@@ -218,75 +218,58 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
+  reflections:
     output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
-      layout: talk
-      author_profile: true
+      layout: single
+      author_profile: false
+  # _papers
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: single
+      author_profile: false
       share: true
+      comments: true
+  # _reflections
+  - scope:
+      path: ""
+      type: reflections
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
 
 
 # Sass/SCSS
