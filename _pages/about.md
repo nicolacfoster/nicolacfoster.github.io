@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "Equicalcs"
 author_profile: true
 redirect_from: 
