@@ -1,6 +1,6 @@
 ---
 permalink: /about
-title: "Equicalcs"
+title: "about"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,8 @@ redirect_from:
 
 
 _Equicalcs_ is a quantitative epidemiology programme of work, directed by Dr Nicola Cloete Foster. 
+
+_Equicalcs - health equity through statistics beyond borders_
 
 Our work spans quantitative pharmacology, population statistics, epidemiology and clinical medicine (with a focus on tuberculosis/ respiratory diseases). 
 
