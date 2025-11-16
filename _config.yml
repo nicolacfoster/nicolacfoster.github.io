@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/profile.png"
+  avatar           : /files/profile.png
   name             : "Dr Nicola Cloete Foster"
   pronouns         : # example: "she/her"  
   bio              : "Statistical Epidemiologist"
@@ -236,38 +236,38 @@ collections:
 defaults:
   # _projects
   - scope:
-      path: "/projects"
+      path: /projects
       type: projects
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
   # _talks
   - scope:
-      path: "/talks"
+      path: /talks
       type: talks
     values:
       layout: single
-      author_profile: false
+      author_profile: true
   # _papers
   - scope:
-      path: "/papers"
+      path: /papers
       type: papers
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
   # _reflections
   - scope:
-      path: "/reflections"
+      path: /reflections
       type: reflections
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
 
