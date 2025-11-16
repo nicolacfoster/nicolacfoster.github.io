@@ -220,7 +220,7 @@ kramdown:
 collections:
   projects:
     output: true
-    permalink: /:projects/:projects/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
