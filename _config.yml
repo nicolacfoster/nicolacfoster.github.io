@@ -236,7 +236,7 @@ collections:
 defaults:
   # _projects
   - scope:
-      path: ""
+      path: "/projects"
       type: projects
     values:
       layout: single
@@ -247,14 +247,14 @@ defaults:
       related: true
   # _talks
   - scope:
-      path: ""
+      path: "/talks"
       type: talks
     values:
       layout: single
       author_profile: false
   # _papers
   - scope:
-      path: ""
+      path: "/papers"
       type: papers
     values:
       layout: single
@@ -263,7 +263,7 @@ defaults:
       comments: true
   # _reflections
   - scope:
-      path: ""
+      path: "/reflections"
       type: reflections
     values:
       layout: single
